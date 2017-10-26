@@ -1,0 +1,16 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+.col-md-1{
+	background: violet;
+}
+.col-md-4{
+	background: aqua;
+}
+.col-md-6{
+	background: yellowgreen;
+}
+.col-md-8{
+	background: coral;
+}
